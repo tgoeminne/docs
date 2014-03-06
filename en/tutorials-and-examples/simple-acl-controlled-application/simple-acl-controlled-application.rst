@@ -325,7 +325,7 @@ This shows us that we have 3 groups and 3 users. The users are
 nested inside the groups, which means we can set permissions on a
 per-group or per-user basis.
 
-Group-only ACL
+Group-only ACL ------- THIS SHIT DOES NOT WORK SO DONT POST IT ONTO YOUR WEBSITE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 --------------
 
 In case we want simplified per-group only permissions, we need to
